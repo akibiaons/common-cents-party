@@ -1,6 +1,7 @@
 html, body {
   margin: 0;
   font-family: Arial;
+  /*Below is the white text color for the text in the pink overlay*/
   color: #ffffff;
 }
 
@@ -27,6 +28,7 @@ ul {
 .nav {
   width: 15%;
   min-width: 140px;
+  /*Below us the color of the navigation text*/
   color: #FFCFCF;
   padding-top: 55px;
   padding-right: 30px;
@@ -50,6 +52,7 @@ ul {
   width: 85%;
   min-height: 750px;
   min-width: 600px;
+  /*Below is the color of the overlay*/
   background-color: #FFCFCF;
 }
 
